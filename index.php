@@ -1,5 +1,5 @@
 <?php
-/* my really faggy way to bust cache */
+/* my really faggy way to ‘bust cache’ */
 $length = 10;
 $randomString = substr(str_shuffle("0123456789abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ"), 0, $length);
 
